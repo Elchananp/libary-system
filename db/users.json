@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Cohen",
+      "username": "alicec",
+      "email": "alice@example.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Ben Levi",
+      "username": "benl",
+      "email": "ben@example.com",
+      "password": "qwerty"
+    },
+    {
+      "id": 3,
+      "name": "Dana Rosen",
+      "username": "danar",
+      "email": "dana@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 4,
+      "name": "Eli Mizrahi",
+      "username": "elim",
+      "email": "eli@example.com",
+      "password": "letmein"
+    }
+  ]
+}
